@@ -51,7 +51,3 @@ The script generates a `notebook_lm_documentation.md` file that includes:
 ## Note
 
 This is an unofficial tool for educational purposes. The generated documentation is sourced from Google's public Help Center for NotebookLM.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/2507178/0a322800-ecb9-49fa-ad41-51b0e5e63109/notebook_lm_documentation.md
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/2507178/3041650f-45e9-4769-871d-367e3fd88195/app.py
